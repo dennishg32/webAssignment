@@ -8,8 +8,7 @@ Here is a working git live page online demo: https://github.com/dennishg32/webAs
 ## Landing Page
 Currently as you can see there is picture and my names of mine
 
-|------------|
-| <img src="https://github.com/dennishg32/webAssignment/blob/master/images/homepage.png" width="auto"> |
+<img src="https://github.com/dennishg32/webAssignment/blob/master/images/landing.png" width="auto"> 
 
 
 ## Mobile Support
@@ -31,10 +30,9 @@ If you find a bug, kindly open an issue [here](https://github.com/dennishg32/web
 
 ## Author
 
-| Denys HAGANJE     |
-|------------|
-| <img src="https://github.com/dennishg32/webAssignment/blob/master/images/denys.jpgg" width="250"> |
+Denys HAGANJE
+<img src="https://github.com/dennishg32/webAssignment/blob/master/images/denys.jpg" width="250px"> |
 
 ### License
 MIT © [Denys HAGANJE](https://github.com/dennishg32)
-Copyright (c) 2020
+Copyright © 2020
