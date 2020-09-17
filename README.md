@@ -29,9 +29,9 @@ To access this website you must have
 If you find a bug, kindly open an issue [here](https://github.com/dennishg32/webAssignment/issues) by including your search and the expected result.
 
 ## Author
-
-Denys HAGANJE
-<img src="https://github.com/dennishg32/webAssignment/blob/master/images/denys.jpg" width="250px"> |
+| Denys HAGANJE |
+|----------------|
+| <img src="https://github.com/dennishg32/webAssignment/blob/master/images/denys.jpg" width="250px"> |
 
 ### License
 MIT © [Denys HAGANJE](https://github.com/dennishg32)
