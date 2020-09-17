@@ -42,3 +42,5 @@ body {
 .mylink.li {
     display: inline;
 }
+
+@media screen and (min-width: 480px) and (max-width: 767px) {}
