@@ -156,7 +156,9 @@ nav ul li a {
     float: left;
     padding: 10px;
     height: 200px;
-    background-color: navy;
+    background: url(../images/earth.jpg);
+    opacity: 70%;
+    flood-opacity: 0%;
 }
 
 .middle {
@@ -167,6 +169,29 @@ nav ul li a {
     content: "";
     display: table;
     clear: both;
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    overflow: auto;
+    background: url(../images/earth.jpg);
+}
+
+.gallery {
+    margin: 0;
+    float: left;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+.cmt {
+    padding: 0;
+    color: white;
+    text-align: center;
 }
 
 @media screen and (min-width: 480px) and (max-width: 767px) {}
