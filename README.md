@@ -7,7 +7,10 @@ Here is a working git live page online demo: https://github.com/dennishg32/webAs
 
 ## Landing Page
 Currently as you can see there is picture and my names of mine
-![landing photo](../images/landing.png)
+
+|------------|
+| <img src="https://github.com/dennishg32/webAssignment/blob/master/images/homepage.png" width="auto"> |
+
 
 ## Mobile Support
 The web is compatible with devices of all size and all OS
@@ -27,11 +30,10 @@ To access this website you must have
 If you find a bug, kindly open an issue [here](https://github.com/dennishg32/webAssignment/issues) by including your search and the expected result.
 
 ## Author
-![my pic](../images/denys.jpg)
 
 | Denys HAGANJE     |
 |------------|
-| <img src="../images/denys.jpg" width="250"> |
+| <img src="https://github.com/dennishg32/webAssignment/blob/master/images/denys.jpgg" width="250"> |
 
 ### License
 MIT © [Denys HAGANJE](https://github.com/dennishg32)
