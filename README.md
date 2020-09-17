@@ -1,8 +1,14 @@
-# My PortoFolio Assignment
-#### Its indepedent work for web application showing my profile, In September 2020
-#### By **Denys HAGANJE**
+# My PortoFolio Landing Page Assignment
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+This portfolio landing page was an assignment which helped me apply skills that I've learnt for the first week, it is contain my profile and my background.
+
+## Demo
+Here is a working git live page online demo: https://github.com/dennishg32/webAssignment
+
+## Landing Page
+![Currently as you can see there is picture and my names of mine](../images/landing.png)
+
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
