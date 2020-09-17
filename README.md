@@ -28,7 +28,11 @@ If you find a bug, kindly open an issue [here](https://github.com/dennishg32/web
 
 ## Author
 ![my pic](../images/denys.jpg)
-Denys HAGANJE
+
+| Denys HAGANJE     |
+|------------|
+| <img src="../images/denys.jpg" width="250"> |
+
 ### License
 MIT © [Denys HAGANJE](https://github.com/dennishg32)
 Copyright (c) 2020

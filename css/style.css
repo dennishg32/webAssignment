@@ -155,11 +155,11 @@ nav ul li a {
 
 .column {
     float: left;
-    padding: 10px;
-    height: 200px;
-    background: url(../images/earth.jpg);
-    opacity: 90%;
-    flood-opacity: 0%;
+    background: url(../images/spider.jpg);
+    padding: 25px;
+    background-repeat: no-repeat;
+    background-size: auto;
+    ;
 }
 
 .middle {
