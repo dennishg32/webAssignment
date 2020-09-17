@@ -16,11 +16,12 @@ img {
 }
 
 section {
-    height: 100vh;
+    height: 10vh;
     width: 100%;
 }
 
 section.one {
+    height: 100vh;
     background: url(../images/happyme.png);
     background-size: cover;
 }
@@ -36,6 +37,16 @@ section.two h2 {
     margin: 0;
     padding: 0 0 20px;
     font-size: 2em;
+}
+
+section.ftr {
+    padding: 0;
+    margin: 0;
+}
+
+section.ftr p {
+    color: #f00;
+    text-align: center;
 }
 
 section.two p {
