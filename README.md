@@ -6,8 +6,18 @@ This portfolio landing page was an assignment which helped me apply skills that 
 Here is a working git live page online demo: https://github.com/dennishg32/webAssignment
 
 ## Landing Page
-![Currently as you can see there is picture and my names of mine](../images/landing.png)
+Currently as you can see there is picture and my names of mine
+![landing photo]
+(../images/landing.png)
 
+## Mobile Support
+The web is compatible with devices of all size and all OS
+![photo of phone]
+(../images/)
+
+## Built with
+* [HTML](https://www.w3schools.com/html) - is the most basic building block of the Web. It defines the meaning and structure of web content.
+* [CSS](https://www.w3schools.com/css) - is the language we use to style an HTML document. 
 
 ## Setup/Installation Requirements
 * This is a great place
