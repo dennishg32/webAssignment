@@ -39,16 +39,6 @@ section.two h2 {
     font-size: 2em;
 }
 
-section.ftr {
-    padding: 0;
-    margin: 0;
-}
-
-section.ftr p {
-    color: #f00;
-    text-align: center;
-}
-
 section.two p {
     font-size: 1.1em;
     color: white;
@@ -202,6 +192,16 @@ nav ul li a {
 .cmt {
     padding: 0;
     color: white;
+    text-align: center;
+}
+
+section.ftr {
+    padding: 0;
+    margin: 0;
+}
+
+section.ftr p {
+    color: #f00;
     text-align: center;
 }
 
