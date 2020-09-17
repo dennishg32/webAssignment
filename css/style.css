@@ -1,7 +1,12 @@
 body {
-    background-image: url("#");
     margin: 0;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+}
+
+header {
+    box-sizing: border-box;
+    padding: 10px 100px;
 }
 
 .my-pic {
