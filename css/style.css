@@ -197,14 +197,26 @@ nav ul li a {
     text-align: center;
 }
 
-section.ftr {
-    padding: 0;
-    margin: 0;
-}
-
 section.ftr p {
     color: #f00;
     text-align: center;
+}
+
+.fa {
+    padding: 10px;
+    font-size: 30px;
+    width: auto;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa-twitter {
+    color: white;
 }
 
 @media screen and (min-width: 480px) and (max-width: 767px) {}
