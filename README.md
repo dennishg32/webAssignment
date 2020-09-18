@@ -3,7 +3,7 @@
 This portfolio landing page was an assignment which helped me apply skills that I've learnt for the first week at Moringa School, it is contain my profile and my background.
 
 ## Demo
-Here is a working git live page online demo: https://github.com/dennishg32/webAssignment
+Here is a working git live page online demo: https://dennishg32.github.io/webAssignment
 
 ## Landing Page
 Currently as you can see there is picture and my names of mine
