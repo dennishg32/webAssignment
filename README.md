@@ -13,7 +13,7 @@ Currently as you can see there is picture and my names of mine
 
 ## Mobile Support
 The web is compatible with devices of all size and all OS
-<img src="" width="auto"> 
+<img src="https://github.com/dennishg32/webAssignment/blob/master/images/mobile.png" width="auto"> 
 
 ## Built with
 * [HTML](https://www.w3schools.com/html) - is the most basic building block of the Web. It defines the meaning and structure of web content.
